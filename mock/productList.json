@@ -1,0 +1,819 @@
+[
+    {
+        "price": 115,
+        "name": "Австралійський лосось (кахавай) з/г с/м 1000-3000 (фас.)",
+        "rest": 1.772,
+        "parentId": "d905ff55-84db-11e3-9bed-5e47805d5d47",
+        "parentName": "Лосось (фасовка)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "59d1870c-fe94-4c37-9ecc-e0dc7ce002ee",
+                "weight": 1.772
+            }
+        ],
+        "product": {
+            "id": "16b52a2d-ef2a-11eb-baa3-46a3e5ae1e12",
+            "name": "Австралійський лосось (кахавай) з/г с/м 1000-3000 (фас.)",
+            "parentId": "d905ff55-84db-11e3-9bed-5e47805d5d47",
+            "parentName": "Лосось (фасовка)"
+        }
+    },
+    {
+        "price": 225,
+        "name": "Барабулька чорноморська с/м (UKR) (500 гр)",
+        "rest": 1,
+        "parentId": "30f227bb-85c9-11e3-9bed-5e47805d5d47",
+        "parentName": "Барабулька (ящики)",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "df8587d9-e0c5-11ec-baa5-46a3e5ae1e12",
+            "name": "Барабулька чорноморська с/м (UKR) (500 гр)",
+            "parentId": "30f227bb-85c9-11e3-9bed-5e47805d5d47",
+            "parentName": "Барабулька (ящики)"
+        }
+    },
+    {
+        "price": 625,
+        "name": "Вугор смажений, с/м 13/14 (фасов)",
+        "rest": 0.652,
+        "parentId": "2c21136d-2437-11e0-9fd3-0015f2d8077b",
+        "parentName": "Гаряче копчення",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "f22a54cc-1020-44b4-affd-7b6e1b921a74",
+                "weight": 0.652
+            }
+        ],
+        "product": {
+            "id": "16b66dc2-c48b-11ec-baa5-46a3e5ae1e12",
+            "name": "Вугор смажений, с/м 13/14 (фасов)",
+            "parentId": "2c21136d-2437-11e0-9fd3-0015f2d8077b",
+            "parentName": "Гаряче копчення"
+        }
+    },
+    {
+        "price": 331.2,
+        "name": "Ікра форелі с/м с/б 110 грам",
+        "rest": 4,
+        "parentId": "5104dbab-a425-11e5-a003-b2228e063111",
+        "parentName": "Ікра_форелі_шт",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "81dfdb52-282a-11ed-baa6-46a3e5ae1e12",
+            "name": "Ікра форелі с/м с/б 110 грам",
+            "parentId": "5104dbab-a425-11e5-a003-b2228e063111",
+            "parentName": "Ікра_форелі_шт"
+        }
+    },
+    {
+        "price": 513.6,
+        "name": "Ікра форелі с/м с/б 200 грам",
+        "rest": 1,
+        "parentId": "5104dbab-a425-11e5-a003-b2228e063111",
+        "parentName": "Ікра_форелі_шт",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "81dfdb54-282a-11ed-baa6-46a3e5ae1e12",
+            "name": "Ікра форелі с/м с/б 200 грам",
+            "parentId": "5104dbab-a425-11e5-a003-b2228e063111",
+            "parentName": "Ікра_форелі_шт"
+        }
+    },
+    {
+        "price": 220.8,
+        "name": "Кальмар квітка с/м IQF CHN",
+        "rest": 2,
+        "parentId": "b0302d1e-85c2-11e3-9bed-5e47805d5d47",
+        "parentName": "Кальмар (ящики)",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "2ad9941f-faea-11e9-ba8e-46a3e5ae1e12",
+            "name": "Кальмар квітка с/м IQF CHN",
+            "parentId": "b0302d1e-85c2-11e3-9bed-5e47805d5d47",
+            "parentName": "Кальмар (ящики)"
+        }
+    },
+    {
+        "price": 206.4,
+        "name": "Кальмар туби с/м U-5 IQF (CHN)",
+        "rest": 2,
+        "parentId": "b0302d1e-85c2-11e3-9bed-5e47805d5d47",
+        "parentName": "Кальмар (ящики)",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "a9870030-1ed4-11e3-97b4-aa48a7ebc2b3",
+            "name": "Кальмар туби с/м U-5 IQF (CHN)",
+            "parentId": "b0302d1e-85c2-11e3-9bed-5e47805d5d47",
+            "parentName": "Кальмар (ящики)"
+        }
+    },
+    {
+        "price": 504,
+        "name": "Кижуч б/г с/м 1,8-2,7 (фасов.)",
+        "rest": 3.98,
+        "parentId": "d905ff58-84db-11e3-9bed-5e47805d5d47",
+        "parentName": "Кижуч (фасовка)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "90cee06f-8068-4775-bab9-fc746c41150f",
+                "weight": 2.04
+            },
+            {
+                "id": "5139fce7-ba2c-4019-af15-8ae8b000ff42",
+                "weight": 1.94
+            }
+        ],
+        "product": {
+            "id": "6ca15d0b-1e97-11e3-97b4-aa48a7ebc2b3",
+            "name": "Кижуч б/г с/м 1,8-2,7 (фасов.)",
+            "parentId": "d905ff58-84db-11e3-9bed-5e47805d5d47",
+            "parentName": "Кижуч (фасовка)"
+        }
+    },
+    {
+        "price": 210.24,
+        "name": "Кільця кальмара с/м IQF 3-9 ZHOUSHAN CENTRAL PROSPER (CHN)",
+        "rest": 1,
+        "parentId": "b0302d1e-85c2-11e3-9bed-5e47805d5d47",
+        "parentName": "Кальмар (ящики)",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "f0d305c5-e302-11ec-baa5-46a3e5ae1e12",
+            "name": "Кільця кальмара с/м IQF 3-9 ZHOUSHAN CENTRAL PROSPER (CHN)",
+            "parentId": "b0302d1e-85c2-11e3-9bed-5e47805d5d47",
+            "parentName": "Кальмар (ящики)"
+        }
+    },
+    {
+        "price": 395,
+        "name": "Креветка атлантична в/м 90-120 (Pandalus Borealis) (1 кг) (фасов.)",
+        "rest": 5,
+        "parentId": "b0302d1a-85c2-11e3-9bed-5e47805d5d47",
+        "parentName": "Креветка (фасовка)",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "2c211368-2437-11e0-9fd3-0015f2d8077b",
+            "name": "Креветка атлантична в/м 90-120 (Pandalus Borealis) (1 кг) (фасов.)",
+            "parentId": "b0302d1a-85c2-11e3-9bed-5e47805d5d47",
+            "parentName": "Креветка (фасовка)"
+        }
+    },
+    {
+        "price": 523.2,
+        "name": "Креветка Ваннамей б/г б/п з/х в/м 31-40 NAS Fisheries (IND)",
+        "rest": 3,
+        "parentId": "b0302d1b-85c2-11e3-9bed-5e47805d5d47",
+        "parentName": "Креветка (ящики)",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "46f42b44-71f2-11ec-baa3-46a3e5ae1e12",
+            "name": "Креветка Ваннамей б/г б/п з/х в/м 31-40 NAS Fisheries (IND)",
+            "parentId": "b0302d1b-85c2-11e3-9bed-5e47805d5d47",
+            "parentName": "Креветка (ящики)"
+        }
+    },
+    {
+        "price": 523.2,
+        "name": "Креветка Ваннамей б/г з/п с/м 16-20 (IND) 30%",
+        "rest": 3,
+        "parentId": "b0302d1b-85c2-11e3-9bed-5e47805d5d47",
+        "parentName": "Креветка (ящики)",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "dbf5af61-6215-11e7-9831-b2228e063111",
+            "name": "Креветка Ваннамей б/г з/п с/м 16-20 (IND) 30%",
+            "parentId": "b0302d1b-85c2-11e3-9bed-5e47805d5d47",
+            "parentName": "Креветка (ящики)"
+        }
+    },
+    {
+        "price": 523.2,
+        "name": "Креветка с/м б/г 35-55 ARG Tradarsa",
+        "rest": 4,
+        "parentId": "b0302d1b-85c2-11e3-9bed-5e47805d5d47",
+        "parentName": "Креветка (ящики)",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "ddc32969-c7ab-11e8-bfc2-b2228e063111",
+            "name": "Креветка с/м б/г 35-55 ARG Tradarsa",
+            "parentId": "b0302d1b-85c2-11e3-9bed-5e47805d5d47",
+            "parentName": "Креветка (ящики)"
+        }
+    },
+    {
+        "price": 552,
+        "name": "Креветка с/м с/г 10-20 ARG Iberconsa",
+        "rest": 2,
+        "parentId": "b0302d1b-85c2-11e3-9bed-5e47805d5d47",
+        "parentName": "Креветка (ящики)",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "ddc3296b-c7ab-11e8-bfc2-b2228e063111",
+            "name": "Креветка с/м с/г 10-20 ARG Iberconsa",
+            "parentId": "b0302d1b-85c2-11e3-9bed-5e47805d5d47",
+            "parentName": "Креветка (ящики)"
+        }
+    },
+    {
+        "price": 206.4,
+        "name": "Лосось з/г с/м (до 1 кг) (фасов.)",
+        "rest": 3.172,
+        "parentId": "d905ff55-84db-11e3-9bed-5e47805d5d47",
+        "parentName": "Лосось (фасовка)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "1dd35404-9be9-4d36-a1a1-d6e1f23740b0",
+                "weight": 1.668
+            },
+            {
+                "id": "c93949bb-6ac9-49fa-a0ad-6c95a05191a5",
+                "weight": 1.504
+            }
+        ],
+        "product": {
+            "id": "d905ff5d-84db-11e3-9bed-5e47805d5d47",
+            "name": "Лосось з/г с/м (до 1 кг) (фасов.)",
+            "parentId": "d905ff55-84db-11e3-9bed-5e47805d5d47",
+            "parentName": "Лосось (фасовка)"
+        }
+    },
+    {
+        "price": 950.4,
+        "name": "Льодяна с/г с/м 500+ (фасов)",
+        "rest": 1.71,
+        "parentId": "3388f127-3fe9-11e4-b035-b2228e063111",
+        "parentName": "Льодяна (фасовка)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "a6807a21-2452-43d7-afd3-7c4d47272f66",
+                "weight": 0.892
+            },
+            {
+                "id": "9ea936f2-e1b9-4a67-9e6e-ce8f7216f5be",
+                "weight": 0.818
+            }
+        ],
+        "product": {
+            "id": "8a410082-43a4-11ec-baa3-46a3e5ae1e12",
+            "name": "Льодяна с/г с/м 500+ (фасов)",
+            "parentId": "3388f127-3fe9-11e4-b035-b2228e063111",
+            "parentName": "Льодяна (фасовка)"
+        }
+    },
+    {
+        "price": 331.2,
+        "name": "М'ясо мiдiї в/м в половинцi мушлi 30-45 NZL",
+        "rest": 1,
+        "parentId": "b0302d2a-85c2-11e3-9bed-5e47805d5d47",
+        "parentName": "М'ясо мiдiї (фасовка)",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "8f5be494-08a9-11e3-88e6-aa48a7ebc2b3",
+            "name": "М'ясо мiдiї в/м в половинцi мушлi 30-45 NZL",
+            "parentId": "b0302d2a-85c2-11e3-9bed-5e47805d5d47",
+            "parentName": "М'ясо мiдiї (фасовка)"
+        }
+    },
+    {
+        "price": 129.6,
+        "name": "Мідії у мушлі в/м 60-80 (CHL) ",
+        "rest": 5,
+        "parentId": "b0302d2b-85c2-11e3-9bed-5e47805d5d47",
+        "parentName": "М'ясо мiдiї (ящики)",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "d3a3eda2-d753-11ec-baa5-46a3e5ae1e12",
+            "name": "Мідії у мушлі в/м 60-80 (CHL) ",
+            "parentId": "b0302d2b-85c2-11e3-9bed-5e47805d5d47",
+            "parentName": "М'ясо мiдiї (ящики)"
+        }
+    },
+    {
+        "price": 100.8,
+        "name": "Мойва с/м (фасов)",
+        "rest": 4.362,
+        "parentId": "1c0fe989-e706-11ec-baa5-46a3e5ae1e12",
+        "parentName": "Мойва (фасов)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "a7805232-bb58-4fd9-a94a-3a8234d67df3",
+                "weight": 1.282
+            },
+            {
+                "id": "02752142-2c67-4a79-9a93-37c9d92ed4ba",
+                "weight": 1.078
+            },
+            {
+                "id": "1be509bb-1827-424d-bf78-cf5b68537318",
+                "weight": 1.022
+            },
+            {
+                "id": "17e7cb33-cd42-4824-a6be-328a0f638a9e",
+                "weight": 0.98
+            }
+        ],
+        "product": {
+            "id": "1c0fe98a-e706-11ec-baa5-46a3e5ae1e12",
+            "name": "Мойва с/м (фасов)",
+            "parentId": "1c0fe989-e706-11ec-baa5-46a3e5ae1e12",
+            "parentName": "Мойва (фасов)"
+        }
+    },
+    {
+        "price": 321.6,
+        "name": "Морський коктейль 6-компонентний Polar Seafood",
+        "rest": 1,
+        "parentId": "b0302d26-85c2-11e3-9bed-5e47805d5d47",
+        "parentName": "Морський коктейль (ящики)",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "6044cd5e-8c15-11e4-8503-b2228e063111",
+            "name": "Морський коктейль 6-компонентний Polar Seafood",
+            "parentId": "b0302d26-85c2-11e3-9bed-5e47805d5d47",
+            "parentName": "Морський коктейль (ящики)"
+        }
+    },
+    {
+        "price": 161.28,
+        "name": "Оселедець матіас 5-7 (фасов.)",
+        "rest": 3.104,
+        "parentId": "5baa6b1a-74a2-11ea-ba91-46a3e5ae1e12",
+        "parentName": "Оселедець  (фасов.)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "9060c08b-f125-47b8-9901-6a0f498571a0",
+                "weight": 0.884
+            },
+            {
+                "id": "d5b97885-3b52-40aa-ac7c-58285e58a1eb",
+                "weight": 0.746
+            },
+            {
+                "id": "f49374e0-afcf-4e77-98af-5b4de36901ec",
+                "weight": 0.742
+            },
+            {
+                "id": "79a736bf-bdb0-4193-bbdc-35066452facf",
+                "weight": 0.732
+            }
+        ],
+        "product": {
+            "id": "5baa6b1b-74a2-11ea-ba91-46a3e5ae1e12",
+            "name": "Оселедець матіас 5-7 (фасов.)",
+            "parentId": "5baa6b1a-74a2-11ea-ba91-46a3e5ae1e12",
+            "parentName": "Оселедець  (фасов.)"
+        }
+    },
+    {
+        "price": 859.2,
+        "name": "Осетер руський стейки (фасовка)",
+        "rest": 0.982,
+        "parentId": "91ba1248-9dcf-11e7-9831-b2228e063111",
+        "parentName": "Осетер (фасовка)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "373da61c-5686-4573-8700-25b7881a2548",
+                "weight": 0.522
+            },
+            {
+                "id": "cda90c55-39d7-44be-9816-5e284cb444a9",
+                "weight": 0.46
+            }
+        ],
+        "product": {
+            "id": "95e90803-d24e-11ea-ba95-46a3e5ae1e12",
+            "name": "Осетер руський стейки (фасовка)",
+            "parentId": "91ba1248-9dcf-11e7-9831-b2228e063111",
+            "parentName": "Осетер (фасовка)"
+        }
+    },
+    {
+        "price": 667.2,
+        "name": "Осетер сибірський філе н/ш с/м (К) (фасов.)",
+        "rest": 1.09,
+        "parentId": "91ba1248-9dcf-11e7-9831-b2228e063111",
+        "parentName": "Осетер (фасовка)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "f84a1d69-1609-4186-ba9a-3a5895a61c4a",
+                "weight": 0.723
+            },
+            {
+                "id": "e32414c1-a5d0-4882-9f37-769f5b052887",
+                "weight": 0.367
+            }
+        ],
+        "product": {
+            "id": "fcca81ba-da51-11eb-baa3-46a3e5ae1e12",
+            "name": "Осетер сибірський філе н/ш с/м (К) (фасов.)",
+            "parentId": "91ba1248-9dcf-11e7-9831-b2228e063111",
+            "parentName": "Осетер (фасовка)"
+        }
+    },
+    {
+        "price": 155,
+        "name": "Осетер філе у власному соку натуральний Acipenser Domum (220 г)",
+        "rest": 3,
+        "parentId": "4e9e58b8-063a-11e2-840e-aa48a7ebc2b3",
+        "parentName": "Консервы",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "0ded3870-e3e8-11eb-baa3-46a3e5ae1e12",
+            "name": "Осетер філе у власному соку натуральний Acipenser Domum (220 г)",
+            "parentId": "4e9e58b8-063a-11e2-840e-aa48a7ebc2b3",
+            "parentName": "Консервы"
+        }
+    },
+    {
+        "price": 155,
+        "name": "Осетер шматки у власному соку натуральний Acipenser Domum (220 г)",
+        "rest": 3,
+        "parentId": "4e9e58b8-063a-11e2-840e-aa48a7ebc2b3",
+        "parentName": "Консервы",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "db58e1bb-bfa2-11eb-ba98-46a3e5ae1e12",
+            "name": "Осетер шматки у власному соку натуральний Acipenser Domum (220 г)",
+            "parentId": "4e9e58b8-063a-11e2-840e-aa48a7ebc2b3",
+            "parentName": "Консервы"
+        }
+    },
+    {
+        "price": 585.6,
+        "name": "Палтус чорний (синьокорий), тушка 2-3 с/м (фасов.)",
+        "rest": 2.5,
+        "parentId": "5f9cde77-0928-11eb-ba96-46a3e5ae1e12",
+        "parentName": "Палтус (фасов.)",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "e99577b6-2762-11ed-baa6-46a3e5ae1e12",
+            "name": "Палтус чорний (синьокорий), тушка 2-3 с/м (фасов.)",
+            "parentId": "5f9cde77-0928-11eb-ba96-46a3e5ae1e12",
+            "parentName": "Палтус (фасов.)"
+        }
+    },
+    {
+        "price": 169,
+        "name": "Палтус чорний (синьокорий), хвости с/м (фасовка)",
+        "rest": 1.932,
+        "parentId": "5f9cde77-0928-11eb-ba96-46a3e5ae1e12",
+        "parentName": "Палтус (фасов.)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "f4afb9b3-d35b-47a1-bf01-b00b59e72ac1",
+                "weight": 0.97
+            },
+            {
+                "id": "1841eb8d-1ad5-4215-b44e-fbec8dfe58ba",
+                "weight": 0.962
+            }
+        ],
+        "product": {
+            "id": "7543f454-131e-11ed-baa5-46a3e5ae1e12",
+            "name": "Палтус чорний (синьокорий), хвости с/м (фасовка)",
+            "parentId": "5f9cde77-0928-11eb-ba96-46a3e5ae1e12",
+            "parentName": "Палтус (фасов.)"
+        }
+    },
+    {
+        "price": 206.4,
+        "name": "Саворін тушка с/м б/г 1300-2000 (фасов.)",
+        "rest": 3.976,
+        "parentId": "30f22796-85c9-11e3-9bed-5e47805d5d47",
+        "parentName": "Саворін (фасовка)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "2db20c70-a304-4a31-af64-65f4853aefc3",
+                "weight": 1.418
+            },
+            {
+                "id": "61359959-e7e6-4fb8-baca-a789cc7e0088",
+                "weight": 1.397
+            },
+            {
+                "id": "8e055f0d-c3b4-432d-971c-2306b0ef3609",
+                "weight": 1.161
+            }
+        ],
+        "product": {
+            "id": "1dbdac66-ba99-11ec-baa4-46a3e5ae1e12",
+            "name": "Саворін тушка с/м б/г 1300-2000 (фасов.)",
+            "parentId": "30f22796-85c9-11e3-9bed-5e47805d5d47",
+            "parentName": "Саворін (фасовка)"
+        }
+    },
+    {
+        "price": 720,
+        "name": "Севрюга з/г с/м 8-10",
+        "rest": 1.912,
+        "parentId": "6eda7dfd-ba43-11e7-8d70-b2228e063111",
+        "parentName": "Осетер (ящики)",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "d56eab6e-c365-11eb-ba98-46a3e5ae1e12",
+            "name": "Севрюга з/г с/м 8-10",
+            "parentId": "6eda7dfd-ba43-11e7-8d70-b2228e063111",
+            "parentName": "Осетер (ящики)"
+        }
+    },
+    {
+        "price": 148.8,
+        "name": "Скумбрія з/г с/м 400-600 (фасов.)",
+        "rest": 10.724,
+        "parentId": "caa37c77-85cc-11e3-9bed-5e47805d5d47",
+        "parentName": "Скумбрiя (фасовка)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "e07c041b-b85a-406a-baf3-a6cf9d8b8819",
+                "weight": 1.632
+            },
+            {
+                "id": "1cc397f5-874a-4ffc-8e88-5302c4de65dc",
+                "weight": 1.586
+            },
+            {
+                "id": "fe1d503d-8369-4c22-ac60-fbc495481b26",
+                "weight": 1.572
+            },
+            {
+                "id": "f779395a-408c-4aa9-8e0d-c58a64dcccce",
+                "weight": 1.52
+            },
+            {
+                "id": "9f23f434-743a-40b2-a011-aa3ac407754c",
+                "weight": 1.506
+            },
+            {
+                "id": "aee546bb-a4c6-4232-8739-2af5aaa5b470",
+                "weight": 1.494
+            },
+            {
+                "id": "43d79e50-cace-4083-9486-0736e3c697aa",
+                "weight": 1.414
+            }
+        ],
+        "product": {
+            "id": "49e2d489-c11b-11e2-aa0d-aa48a7ebc2b3",
+            "name": "Скумбрія з/г с/м 400-600 (фасов.)",
+            "parentId": "caa37c77-85cc-11e3-9bed-5e47805d5d47",
+            "parentName": "Скумбрiя (фасовка)"
+        }
+    },
+    {
+        "price": 66.24,
+        "name": "Тунець стейк с/м в/у (110 г) (шт)",
+        "rest": 17,
+        "parentId": "caa37c5a-85cc-11e3-9bed-5e47805d5d47",
+        "parentName": "Тунець (фасовка)",
+        "isPacked": "false",
+        "packs": [],
+        "product": {
+            "id": "695a645c-af95-11ea-ba94-46a3e5ae1e12",
+            "name": "Тунець стейк с/м в/у (110 г) (шт)",
+            "parentId": "caa37c5a-85cc-11e3-9bed-5e47805d5d47",
+            "parentName": "Тунець (фасовка)"
+        }
+    },
+    {
+        "price": 264,
+        "name": "Фiле хека (мерлузи) велике (від 300 гр.) с/м б/ш (фасов.)",
+        "rest": 2.22,
+        "parentId": "30f227a4-85c9-11e3-9bed-5e47805d5d47",
+        "parentName": "Хек_філе (фасовка)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "e0a42921-bb82-4aab-aaa7-eced2bf886b3",
+                "weight": 1.258
+            },
+            {
+                "id": "f26a2c06-955c-43f8-bfa5-a4af4ec86aa3",
+                "weight": 0.962
+            }
+        ],
+        "product": {
+            "id": "a987001e-1ed4-11e3-97b4-aa48a7ebc2b3",
+            "name": "Фiле хека (мерлузи) велике (від 300 гр.) с/м б/ш (фасов.)",
+            "parentId": "30f227a4-85c9-11e3-9bed-5e47805d5d47",
+            "parentName": "Хек_філе (фасовка)"
+        }
+    },
+    {
+        "price": 129.6,
+        "name": "Філе оселедця с/м 5-8 (фасов.)",
+        "rest": 0.618,
+        "parentId": "5baa6b1a-74a2-11ea-ba91-46a3e5ae1e12",
+        "parentName": "Оселедець  (фасов.)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "c42b9709-9fd8-45ec-a4d0-08d9328fd86b",
+                "weight": 0.618
+            }
+        ],
+        "product": {
+            "id": "1dbdac68-ba99-11ec-baa4-46a3e5ae1e12",
+            "name": "Філе оселедця с/м 5-8 (фасов.)",
+            "parentId": "5baa6b1a-74a2-11ea-ba91-46a3e5ae1e12",
+            "parentName": "Оселедець  (фасов.)"
+        }
+    },
+    {
+        "price": 302.4,
+        "name": "Філе хека (шайба)",
+        "rest": 2.656,
+        "parentId": "dcb6853a-d6b2-11e3-afe9-b2228e063111",
+        "parentName": "Хек_ковбаса (фасовка)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "d7737cf3-e837-4b58-9db2-a33718d23d45",
+                "weight": 0.984
+            },
+            {
+                "id": "a75cd2d5-fd8c-4810-a27e-21eeda339862",
+                "weight": 0.838
+            },
+            {
+                "id": "498fe0da-3c9d-4241-ae7f-c68cf3e8a651",
+                "weight": 0.834
+            }
+        ],
+        "product": {
+            "id": "5f55fc47-7558-11e4-b6b3-b2228e063111",
+            "name": "Філе хека (шайба)",
+            "parentId": "dcb6853a-d6b2-11e3-afe9-b2228e063111",
+            "parentName": "Хек_ковбаса (фасовка)"
+        }
+    },
+    {
+        "price": 133.44,
+        "name": "Хек (Мерлуза) тушки до 0,3 кг",
+        "rest": 4.21,
+        "parentId": "30f227a1-85c9-11e3-9bed-5e47805d5d47",
+        "parentName": "Хек_тушка (фасовка)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "3d84893a-c649-49f1-95f8-1cc4f53fa0aa",
+                "weight": 1.076
+            },
+            {
+                "id": "014db168-d785-46fc-b653-60bbf51075d6",
+                "weight": 1.06
+            },
+            {
+                "id": "6946bda0-c0d7-40dc-8156-f6031b999998",
+                "weight": 1.046
+            },
+            {
+                "id": "cb0c8a91-11c9-41fd-9640-b3bfb80256d8",
+                "weight": 1.028
+            }
+        ],
+        "product": {
+            "id": "3a8e8469-1f61-11e3-97b4-aa48a7ebc2b3",
+            "name": "Хек (Мерлуза) тушки до 0,3 кг",
+            "parentId": "30f227a1-85c9-11e3-9bed-5e47805d5d47",
+            "parentName": "Хек_тушка (фасовка)"
+        }
+    },
+    {
+        "price": 105.6,
+        "name": "Хребти лосося с/м (фасов)",
+        "rest": 2.618,
+        "parentId": "1c0fe98e-e706-11ec-baa5-46a3e5ae1e12",
+        "parentName": "Лосось_хребти (фасов)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "3177e971-356b-44dd-9ae6-9c577ebf03db",
+                "weight": 2.618
+            }
+        ],
+        "product": {
+            "id": "1c0fe98c-e706-11ec-baa5-46a3e5ae1e12",
+            "name": "Хребти лосося с/м (фасов)",
+            "parentId": "1c0fe98e-e706-11ec-baa5-46a3e5ae1e12",
+            "parentName": "Лосось_хребти (фасов)"
+        }
+    },
+    {
+        "price": 216,
+        "name": "Чорний кардинал б/г с/м 800+ (фасовка)",
+        "rest": 2.042,
+        "parentId": "33a8100e-f09f-11eb-baa3-46a3e5ae1e12",
+        "parentName": "Кардинал_чорний (фасовка)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "ba8c97c9-be06-43b2-92d9-cf871aa50c25",
+                "weight": 0.698
+            },
+            {
+                "id": "6607ddd7-13ce-464f-81a6-5e4c20e31361",
+                "weight": 0.674
+            },
+            {
+                "id": "a0449429-ebf0-4348-b457-e4be9faa0bba",
+                "weight": 0.67
+            }
+        ],
+        "product": {
+            "id": "d9e6ca80-84bc-11ec-baa3-46a3e5ae1e12",
+            "name": "Чорний кардинал б/г с/м 800+ (фасовка)",
+            "parentId": "33a8100e-f09f-11eb-baa3-46a3e5ae1e12",
+            "parentName": "Кардинал_чорний (фасовка)"
+        }
+    },
+    {
+        "price": 158.4,
+        "name": "Чорний сонячник б/г 230-420 NZL (фасов.)",
+        "rest": 2.259,
+        "parentId": "4644bea8-00fd-11e4-9bbd-b2228e063111",
+        "parentName": "Сонячник (фасовка)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "f042c666-dcdb-476a-9c31-5a227c624d28",
+                "weight": 0.842
+            },
+            {
+                "id": "3f6037ba-b048-4a9a-aa28-867772dead64",
+                "weight": 0.788
+            },
+            {
+                "id": "b7f6fffe-3e1d-4598-abdb-bca104ce8881",
+                "weight": 0.629
+            }
+        ],
+        "product": {
+            "id": "2ac36800-3e73-11ea-ba90-46a3e5ae1e12",
+            "name": "Чорний сонячник б/г 230-420 NZL (фасов.)",
+            "parentId": "4644bea8-00fd-11e4-9bbd-b2228e063111",
+            "parentName": "Сонячник (фасовка)"
+        }
+    },
+    {
+        "price": 561.6,
+        "name": "Шматки лосося (великі) б/ш с/м в/у 100-200г. (фасовка)",
+        "rest": 4.282,
+        "parentId": "d905ff66-84db-11e3-9bed-5e47805d5d47",
+        "parentName": "Лосось_шматки (фасовка)",
+        "isPacked": "true",
+        "packs": [
+            {
+                "id": "b24b1c5c-6fe6-4fc0-ab79-4fa48ab2219e",
+                "weight": 1.154
+            },
+            {
+                "id": "78fc94cd-b032-4180-b3e1-8fb52ebac8ba",
+                "weight": 1.154
+            },
+            {
+                "id": "591a7793-5842-4831-ad59-0b77a037df65",
+                "weight": 1.01
+            },
+            {
+                "id": "32e16f33-cf44-4b16-af20-a81bc37a0ce7",
+                "weight": 0.964
+            }
+        ],
+        "product": {
+            "id": "24f42b4d-cdea-11ec-baa5-46a3e5ae1e12",
+            "name": "Шматки лосося (великі) б/ш с/м в/у 100-200г. (фасовка)",
+            "parentId": "d905ff66-84db-11e3-9bed-5e47805d5d47",
+            "parentName": "Лосось_шматки (фасовка)"
+        }
+    }
+]

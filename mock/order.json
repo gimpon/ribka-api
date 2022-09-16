@@ -1,0 +1,68 @@
+{
+    "id": "",
+    "date": "2022-09-15T07:28:46.885817",
+    "code": "",
+    "comment": "",
+    "paymentType": {
+        "id": "4d207757-dbfe-11ec-baa5-46a3e5ae1e12",
+        "name": "Ужгород_Рынок",
+        "isCash": true
+    },
+    "outlet": {
+        "id": "afdea377-1106-11ed-baa5-46a3e5ae1e12",
+        "name": "Ужгород рынок"
+    },
+    "storehouse": {
+        "id": "068ca8b9-b74f-11ec-baa3-46a3e5ae1e12",
+        "name": "Ужгород (склад)"
+    },
+    "posted": true,
+    "deleted": false,
+    "user": {
+        "id": "",
+        "name": "anna"
+    },
+    "total": null,
+    "client": {
+        "id": "b008c9de-1739-11e0-9fb2-0015f2d8077b",
+        "name": "Розничный покупатель",
+        "phone": ""
+    },
+    "products": [
+        {
+            "product": {
+                "id": "16b52a2d-ef2a-11eb-baa3-46a3e5ae1e12",
+                "name": "Австралійський лосось (кахавай) з/г с/м 1000-3000 (фас.)",
+                "parentId": "d905ff55-84db-11e3-9bed-5e47805d5d47",
+                "parentName": "Лосось (фасовка)",
+                "isPacked": false
+            },
+            "rest": 1.772,
+            "price": 115,
+            "total": 203.78,
+            "count": 1.772,
+            "packs": [
+                {
+                    "id": "59d1870c-fe94-4c37-9ecc-e0dc7ce002ee",
+                    "weight": 1.772
+                }
+            ]
+        },
+        {
+            "product": {
+                "id": "a9870030-1ed4-11e3-97b4-aa48a7ebc2b3",
+                "name": "Кальмар туби с/м U-5 IQF (CHN)",
+                "parentId": "b0302d1e-85c2-11e3-9bed-5e47805d5d47",
+                "parentName": "Кальмар (ящики)",
+                "isPacked": false
+            },
+            "rest": 2,
+            "price": 206.4,
+            "total": 206.4,
+            "count": 1.0,
+            "packs": []
+        }
+    ],
+    "outletId": "afdea377-1106-11ed-baa5-46a3e5ae1e12",
+    "queryId": "postOrder"
+}
